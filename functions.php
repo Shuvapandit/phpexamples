@@ -1,4 +1,4 @@
-<?php
+<?php 
 function name(){
     echo "My name is shuva" ."<br>";
 }
@@ -24,7 +24,4 @@ man("Shuva",1998);
 man("Sagor",1997);
 man("Joy",1990);
 man("Sudip",1800);
-
-
-
 ?>
